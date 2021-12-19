@@ -10,7 +10,6 @@ Some of my values:
 - Software is only a dumpster fire when we let it be one 🔥
 - Continuous steady improvement over huge rewrites 🛠️
 - Fixing small bugs today prevents large issues tomorrow 🐛
-- More meetings mean less output 💤
 - Magical things happen when developers can work in uninterrupted chunks of time 🕙
 - I'm paid well, and thus invest in myself and my tools 🚀
 - Kindness is mandatory, not optional 🥰
