@@ -2,7 +2,7 @@
 
 My name is Alan Vardy, I am a Senior Developer living on the beautiful West Coast of Canada. 
 
-I love working remote on backend Elixir services, and enjoy playing with Rust in my free time. I pride myself on being a high-output individual contributor who leaves code better than he finds it and actively improves the overall health of codebases.
+I love working remotely on backend Elixir services, and enjoy playing with Rust in my free time. I pride myself on being a high-output individual contributor who leaves code better than he finds it and actively improves the overall health of codebases.
 
 Some of my values:
 - Code quality and tests help us ship faster, not slower 🚢
