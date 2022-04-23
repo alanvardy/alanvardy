@@ -18,4 +18,4 @@ Some of my values:
 If our values align, be sure to drop me a line 😆
 
 Alan Vardy
-alan@alanvardy.com
+alan@vardy.cc
