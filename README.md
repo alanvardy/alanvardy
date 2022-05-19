@@ -18,4 +18,5 @@ Some of my values:
 If our values align, be sure to drop me a line 😆
 
 Alan Vardy
+
 alan@vardy.cc
