@@ -22,3 +22,11 @@ If our values align, be sure to drop me a line 😆
 Alan Vardy
 
 alan@vardy.cc
+
+
+# Live Stats 📊
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanvardy&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanvardy&count_private=true&langs_count=7&layout=compact&theme=tokyonight" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alanvardy&theme=tokyonight)](https://git.io/streak-stats)
