@@ -26,4 +26,4 @@ alan@vardy.cc
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanvardy&count_private=true&show_icons=true&layout=compact&theme=tokyonight" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanvardy&count_private=true&langs_count=7&hide=ruby,html, coffeescript,css,scss&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanvardy&count_private=true&langs_count=4&hide=ruby,html, coffeescript,css,scss&layout=compact&theme=tokyonight" />
