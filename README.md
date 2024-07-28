@@ -13,7 +13,6 @@ Some of my values:
 - Magical things happen when developers can work in uninterrupted chunks of time 🕙
 - I'm paid well, and thus, invest in myself and my tools 🚀
 - Kindness is mandatory, not optional 🥰
-- JavaScript needs to be fired into the sun 🌞
 
 If our values align, be sure to drop me a line 😆
 
